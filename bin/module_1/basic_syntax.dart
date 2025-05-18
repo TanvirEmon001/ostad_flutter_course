@@ -49,8 +49,8 @@ void main(){
   print(name + name2);
   print('name :  $name Age: $age');
 
-  print('Var ' + test);
-  print('Dynamic ' + test2.toString());
+  print('Var $test');
+  print('Dynamic $test2');
 
 
 
