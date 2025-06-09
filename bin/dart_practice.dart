@@ -40,7 +40,7 @@ void main() {
     // 6️⃣ Show candidate options
     print("\nSelect a candidate to vote for:");
     candidates.forEach((id, name) {
-      print("$id. $name");
+      print("ID: $id. Candidate: $name");
     });
 
     stdout.write("Enter Candidate ID: ");
