@@ -16,7 +16,7 @@ class Mobile {
 //Constructor
 
   Mobile(this.modelName,this.brandName){
-    print('${modelName} obj created');
+    print('$modelName obj created');
     print('Mobile obj created');
     print('Mobile obj created');
   }
